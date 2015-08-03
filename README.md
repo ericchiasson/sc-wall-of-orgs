@@ -1,3 +1,3 @@
-# Wall of ORGs
+# Millennium Site
 
-Mosaic of organization within Star Citizen game.
+In-fiction site selling advertising by pixels, within Star Citizen game.
